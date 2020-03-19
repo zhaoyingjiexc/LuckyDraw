@@ -1,0 +1,268 @@
+{"frames": {
+
+"ChongShengTianShi.png":
+{
+	"frame": {"x":104,"y":614,"w":100,"h":100},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":100,"h":100},
+	"sourceSize": {"w":100,"h":100}
+},
+"FirstChong.png":
+{
+	"frame": {"x":104,"y":512,"w":100,"h":100},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":100,"h":100},
+	"sourceSize": {"w":100,"h":100}
+},
+"GaoJiShangDian.png":
+{
+	"frame": {"x":104,"y":410,"w":100,"h":100},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":100,"h":100},
+	"sourceSize": {"w":100,"h":100}
+},
+"HaiShangHeiShi.png":
+{
+	"frame": {"x":104,"y":308,"w":100,"h":100},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":100,"h":100},
+	"sourceSize": {"w":100,"h":100}
+},
+"JingJiChang.png":
+{
+	"frame": {"x":104,"y":818,"w":96,"h":100},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":0,"w":96,"h":100},
+	"sourceSize": {"w":100,"h":100}
+},
+"JingJiShangDian.png":
+{
+	"frame": {"x":104,"y":206,"w":100,"h":100},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":100,"h":100},
+	"sourceSize": {"w":100,"h":100}
+},
+"JuLongYiJi.png":
+{
+	"frame": {"x":104,"y":104,"w":100,"h":100},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":100,"h":100},
+	"sourceSize": {"w":100,"h":100}
+},
+"Online.png":
+{
+	"frame": {"x":920,"y":2,"w":100,"h":100},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":100,"h":100},
+	"sourceSize": {"w":100,"h":100}
+},
+"PuTongShangDian.png":
+{
+	"frame": {"x":818,"y":2,"w":100,"h":100},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":100,"h":100},
+	"sourceSize": {"w":100,"h":100}
+},
+"QiTaYunYingHuoDong.png":
+{
+	"frame": {"x":716,"y":2,"w":100,"h":100},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":100,"h":100},
+	"sourceSize": {"w":100,"h":100}
+},
+"RongHuoZhiXin.png":
+{
+	"frame": {"x":614,"y":2,"w":100,"h":100},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":100,"h":100},
+	"sourceSize": {"w":100,"h":100}
+},
+"RongLianShangDian.png":
+{
+	"frame": {"x":512,"y":2,"w":100,"h":100},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":100,"h":100},
+	"sourceSize": {"w":100,"h":100}
+},
+"ShenYuan.png":
+{
+	"frame": {"x":188,"y":920,"w":98,"h":92},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":1,"w":98,"h":92},
+	"sourceSize": {"w":100,"h":100}
+},
+"ShenYuanLaoLongDaXu.png":
+{
+	"frame": {"x":410,"y":2,"w":100,"h":100},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":100,"h":100},
+	"sourceSize": {"w":100,"h":100}
+},
+"ShenYuanLaoLongJiuWei.png":
+{
+	"frame": {"x":308,"y":2,"w":100,"h":100},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":100,"h":100},
+	"sourceSize": {"w":100,"h":100}
+},
+"ShenYuanLaoLongShenLong.png":
+{
+	"frame": {"x":206,"y":2,"w":100,"h":100},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":100,"h":100},
+	"sourceSize": {"w":100,"h":100}
+},
+"ShengBei.png":
+{
+	"frame": {"x":202,"y":814,"w":92,"h":88},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":5,"w":92,"h":88},
+	"sourceSize": {"w":100,"h":100}
+},
+"ShiLian.png":
+{
+	"frame": {"x":104,"y":716,"w":96,"h":100},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":96,"h":100},
+	"sourceSize": {"w":100,"h":100}
+},
+"Shop.png":
+{
+	"frame": {"x":282,"y":908,"w":88,"h":68},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":19,"w":88,"h":68},
+	"sourceSize": {"w":100,"h":100}
+},
+"SiWangMuDi.png":
+{
+	"frame": {"x":104,"y":2,"w":100,"h":100},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":100,"h":100},
+	"sourceSize": {"w":100,"h":100}
+},
+"VipLiBao.png":
+{
+	"frame": {"x":2,"y":920,"w":100,"h":100},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":100,"h":100},
+	"sourceSize": {"w":100,"h":100}
+},
+"WeiDaHangLu.png":
+{
+	"frame": {"x":2,"y":818,"w":100,"h":100},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":100,"h":100},
+	"sourceSize": {"w":100,"h":100}
+},
+"WorldBoss.png":
+{
+	"frame": {"x":2,"y":716,"w":100,"h":100},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":100,"h":100},
+	"sourceSize": {"w":100,"h":100}
+},
+"XiuXing.png":
+{
+	"frame": {"x":202,"y":716,"w":96,"h":90},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":4,"w":96,"h":90},
+	"sourceSize": {"w":100,"h":100}
+},
+"XiuXingZhiDiCoin.png":
+{
+	"frame": {"x":2,"y":614,"w":100,"h":100},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":100,"h":100},
+	"sourceSize": {"w":100,"h":100}
+},
+"XiuXingZhiDiExp.png":
+{
+	"frame": {"x":2,"y":512,"w":100,"h":100},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":100,"h":100},
+	"sourceSize": {"w":100,"h":100}
+},
+"YiJiShangDian.png":
+{
+	"frame": {"x":2,"y":410,"w":100,"h":100},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":100,"h":100},
+	"sourceSize": {"w":100,"h":100}
+},
+"YingXiongFuMoShangDian.png":
+{
+	"frame": {"x":2,"y":308,"w":100,"h":100},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":100,"h":100},
+	"sourceSize": {"w":100,"h":100}
+},
+"YingXiongShangDian.png":
+{
+	"frame": {"x":2,"y":206,"w":100,"h":100},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":100,"h":100},
+	"sourceSize": {"w":100,"h":100}
+},
+"ZhaoHuan.png":
+{
+	"frame": {"x":104,"y":920,"w":100,"h":82},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":100,"h":82},
+	"sourceSize": {"w":100,"h":100}
+},
+"ZhiNanZhiLu.png":
+{
+	"frame": {"x":2,"y":104,"w":100,"h":100},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":100,"h":100},
+	"sourceSize": {"w":100,"h":100}
+},
+"ZhuanPan.png":
+{
+	"frame": {"x":2,"y":2,"w":100,"h":100},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":100,"h":100},
+	"sourceSize": {"w":100,"h":100}
+}},
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "Activity.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":1024},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:749b0af8a66ca0ce7b5cb070adfa38a7$"
+}
+}
